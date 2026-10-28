@@ -1,0 +1,19 @@
+{
+  "name": "@ahjorgen167/arcade-core",
+  "version": "1.0.1",
+  "description": "This is my core code for my library project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src"
+  ],
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
